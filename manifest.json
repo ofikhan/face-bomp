@@ -1,0 +1,15 @@
+{
+    "name": "Face Bomp",
+    "short_name": "Face Bomp",
+    "icons": [
+        {
+            "src": "face-bomp-icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#28074a",
+    "theme_color": "#bd4de5"
+}
