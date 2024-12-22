@@ -76,3 +76,9 @@ button:hover {
 .hole img.clicked {
     border: 4px solid rgb(255, 71, 99);
 }
+
+@media(max-width: 425px){
+    .game-board{
+        grid-template-columns: repeat(2, 150px);
+    }
+}
