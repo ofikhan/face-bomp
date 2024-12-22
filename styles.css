@@ -79,9 +79,13 @@ button:hover {
 
 @media(max-width: 425px){
     .game-board{
-        grid-template-columns: repeat(2, 150px);
+        grid-template-columns: repeat(3, 85px);
     }
     #timer{
         font-size: 20px;
+    }
+    .hole{
+        width: 100px;
+        height: 100px;
     }
 }
