@@ -81,4 +81,7 @@ button:hover {
     .game-board{
         grid-template-columns: repeat(2, 150px);
     }
+    #timer{
+        font-size: 20px;
+    }
 }
